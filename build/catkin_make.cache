@@ -1,0 +1,2 @@
+serial_cmd
+-DCATKIN_DEVEL_PREFIX=/home/joeyyu/joeyyu-workplane/catkin_serial/devel -DCMAKE_INSTALL_PREFIX=/home/joeyyu/joeyyu-workplane/catkin_serial/install -G Unix Makefiles
